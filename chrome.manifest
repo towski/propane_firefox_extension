@@ -1,0 +1,4 @@
+content	conduit	content/
+locale	conduit	en-US	locale/en-US/
+skin	conduit	classic/1.0	skin/
+overlay	chrome://browser/content/browser.xul	chrome://conduit/content/firefoxOverlay.xul
